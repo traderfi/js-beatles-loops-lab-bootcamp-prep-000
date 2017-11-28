@@ -22,5 +22,8 @@ function theBeatlesPlay(musicians, instruments) {
 
 
 function iLoveTheBeatles(number) {
-
+      var empty = [];
+      do{
+        
+      }while ();
 }
